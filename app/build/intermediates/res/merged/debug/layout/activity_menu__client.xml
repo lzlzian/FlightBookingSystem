@@ -1,0 +1,76 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/ScrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/textClientView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/searchFlights"
+        android:layout_marginBottom="20dp"
+        android:text="Please select from the following options:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20dp"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/searchItinerariesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/searchFlightsButton"
+        android:onClick="searchItineraries"
+        android:text="Search Itineraries" />
+
+    <Button
+        android:id="@+id/searchFlightsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textClientView"
+        android:onClick="searchFlights"
+        android:text="Search Flights" />
+
+    <Button
+        android:id="@+id/viewPersonalInformation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/searchItinerariesButton"
+        android:onClick="viewPersonalInfo"
+        android:text="View Personal Information" />
+
+    <Button
+        android:id="@+id/viewBookedItineraries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/viewPersonalInformation"
+        android:onClick="viewBookedItineraries"
+        android:text="View Booked Itineraries" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/viewBookedItineraries"
+        android:onClick="logOut"
+        android:text="Logout" />
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="csc207.group0388.piii"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".Menu_Client"
+            android:label="@string/title_activity_menu__client" >
+        </activity>
+        <activity
+            android:name=".Menu_Admin"
+            android:label="@string/title_activity_menu__admin" >
+        </activity>
+        <activity
+            android:name=".Search_FlightActivity"
+            android:label="@string/title_activity_search__flight" >
+
+            <!--
+                	<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".Search_Flight_ResultActivity"
+            android:label="@string/title_activity_search__flight__result" >
+        </activity>
+        <activity
+            android:name=".Search_ItineraryActivity"
+            android:label="@string/title_activity_search__itinerary" >
+        </activity>
+        <activity
+            android:name=".Search_Itinerary_ResultActivity"
+            android:label="@string/title_activity_search__itinerary__result" >
+        </activity>
+        <activity
+            android:name=".View_Personal_InfoActivity"
+            android:label="@string/title_activity_view__personal__info" >
+        </activity>
+        <activity
+            android:name=".Edit_ClientActivity"
+            android:label="@string/title_activity_edit__client" >
+        </activity>
+        <activity
+            android:name=".View_ClientsActivity"
+            android:label="@string/title_activity_view__clients" >
+        </activity>
+        <activity
+            android:name=".View_FlightListActivity"
+            android:label="@string/title_activity_view__flight_list" >
+        </activity>
+        <activity
+            android:name=".Upload_Flight_ListActivity"
+            android:label="@string/title_activity_upload__flight__list" >
+        </activity>
+        <activity
+            android:name=".Edit_FlightActivity"
+            android:label="@string/title_activity_edit__flight" >
+        </activity>
+        <activity
+            android:name=".Edit_Given_FlightActivity"
+            android:label="@string/title_activity_edit__given__flight" >
+        </activity>
+        <activity
+            android:name=".View_Booked_ItinerariesActivity"
+            android:label="@string/title_activity_view__booked__itineraries" >
+        </activity>
+    </application>
+
+</manifest>

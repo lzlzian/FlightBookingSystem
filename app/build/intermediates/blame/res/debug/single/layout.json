@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_menu__admin.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_menu__admin.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_view__personal__info.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_view__personal__info.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_search__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_search__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__given__flight.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_edit__given__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__itinerary__result.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_search__itinerary__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_edit__given__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_edit__given__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_menu__client.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_menu__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__flight.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_edit__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__clients.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_view__clients.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__personal__info.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_view__personal__info.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__booked__itineraries.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_view__booked__itineraries.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_menu__client.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_menu__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__client.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_edit__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_search__itinerary__result.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_search__itinerary__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_menu__client.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_menu__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__booked__itineraries.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_view__booked__itineraries.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__clients.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_view__clients.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__flight__result.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_search__flight__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_edit__client.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_edit__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_search__flight__result.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_search__flight__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_menu__admin.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_menu__admin.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_view__flight_list.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_view__flight_list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__client.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_edit__client.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__personal__info.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_view__personal__info.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_upload__flight__list.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_upload__flight__list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__flight_list.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_view__flight_list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_upload__flight__list.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_upload__flight__list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_search__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_view__booked__itineraries.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_view__booked__itineraries.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_upload__flight__list.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_upload__flight__list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_view__flight_list.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_view__flight_list.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_view__clients.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_view__clients.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_search__itinerary.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_search__itinerary.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_edit__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_edit__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__itinerary__result.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_search__itinerary__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__itinerary.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_search__itinerary.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/content_menu__admin.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/content_menu__admin.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__itinerary.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_search__itinerary.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__given__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_edit__given__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__flight__result.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_search__flight__result.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Sunil/PIII/app/build/intermediates/res/merged/debug/layout/activity_search__flight.xml",
+        "source": "/Users/Sunil/PIII/app/src/main/res/layout/activity_search__flight.xml"
+    },
+    {
+        "merged": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/layout/activity_edit__flight.xml",
+        "source": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/layout/activity_edit__flight.xml"
+    }
+]

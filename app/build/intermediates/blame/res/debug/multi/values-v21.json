@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/Sunil/Documents/CSC207/CSC207- New/PIII/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 18,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 314
+                    }
+                }
+            }
+        ]
+    }
+]
